@@ -1,4 +1,4 @@
-cat <<EOF > wifi_gen.py
+cat <<EOF > Hafid-script.py
 def generate_wifi_passwords():
     print("-" * 45)
     print("   WIFI KEY GEN - ADVANCED OFFSET EDITION   ")
