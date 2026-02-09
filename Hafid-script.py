@@ -1,4 +1,3 @@
-cat <<EOF > Hafid-script.py
 def generate_wifi_passwords():
     print("-" * 45)
     print("   WIFI KEY GEN - ADVANCED OFFSET EDITION   ")
@@ -42,5 +41,4 @@ def generate_wifi_passwords():
 
 if __name__ == "__main__":
     generate_wifi_passwords()
-EOF
   
